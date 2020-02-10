@@ -1,5 +1,3 @@
-# AppIntroduction
-
 # App Introduction
 
 ## Introduction
