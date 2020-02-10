@@ -4,8 +4,6 @@
 
 You can see it in many application which needs a little assistance. If your application has any feature which needs some instruction then instead of going to the theory or the long list you can make it more interesting using it.
 
-## Code Samples
-
 
 
 ## Installation
