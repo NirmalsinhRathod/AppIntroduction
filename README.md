@@ -23,7 +23,7 @@ You can see it in many application which needs a little assistance. If your appl
     Example of App Introduction Tour in React Native
   </WalkthroughableText>
 </CopilotStep>```
-
+```
 ( 2 ) copilot: Higher-order component for the screen component that you want to use copilot with
 
 ```
