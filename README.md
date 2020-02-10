@@ -20,7 +20,7 @@ You can see it in many application which needs a little assistance. If your appl
   <WalkthroughableText style={styles.title}> 
     Example of App Introduction Tour in React Native
   </WalkthroughableText>
-</CopilotStep>```
+</CopilotStep>
 ```
 ( 2 ) copilot: Higher-order component for the screen component that you want to use copilot with
 
